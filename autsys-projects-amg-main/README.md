@@ -1,5 +1,5 @@
-# autsys-projects-amg
-## Challenge 3 - Area Mesh Generation (Vision)
+
+#Area Mesh Generation (Vision)
 ### Table of contents
 1. Project Description
 2. Members
@@ -28,14 +28,6 @@ The main tasks of this project are as follows:
 
 • a mesh of the ground surface generation
 
-### Members
-
-| Name | TUM-ID |
-|------| ------ |
-| Hang Li | ge23zop |
-| Tiantian Wei | ge49rep |
-| Ziting Huang | ge95qus |
-| Linya Ruan | ge35wod |
 
 ### Installation and Build
 
@@ -82,21 +74,6 @@ Now the drone starts to fly on predifined trajectory. In Rviz window, you will s
 Then wait a few minutes, you are expected to see another PCL viewer window, which shows four meshs. On the upper part are two meshs without RGB color. On the lower side are two meshs with color information based on the height. The color change from blue to red according to the height.
 
 ![image](https://github.com/TUM-AAS/autsys-projects-amg/blob/main/image/height.png)
-### Responsibilities 
-
-- trajectory planning to cover terrain: Ziting Huang, Linya Ruan
-- perform feature-matching from stereo images: Ziting Huang, Linya Ruan
-- point cloud from features generation: Hang Li, Tiantian Wei
-- a mesh of the ground surface generation: Hang Li, Tiantian Wei
-- Debug: all
-
-### Milestones
-
-- phase 1: trajectory planning to cover terrain (13/01/2023-27/01/2023)
-- phase 2: perform feature-matching from stereo images (28/01/2023-12/02/2023)
-- phase 3: point cloud from features generation (12/02/2023-01/03/2023)
-- phase 4: a mesh of the ground surface generation (01/03/2023-17/03/2023)
-- phase 5: Report (17/03/2023-22/02/2023)
 
 ### Demo
 - Area Mesh Generation:
