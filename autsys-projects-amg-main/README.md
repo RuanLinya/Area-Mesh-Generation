@@ -6,9 +6,6 @@
 
 This project explore the process of 3D slightly hilly terrain containing a polygon of n corners reconstruction using UAVs with down-pointing stereo-camera. A mesh reconstruction of area is generated from raw images after UAVs scans this area. The core modules are trajectory planning, feature matching, point cloud generation and merging, colored mesh generation.
 
-![image](https://github.com/RuanLinya/Area-Mesh-Generation/blob/main/autsys-projects-amg-main/image/enviroment.png)
-
-
 The main tasks of this project are as follows:
 
 • trajectory planning to cover terrain
@@ -60,11 +57,7 @@ roslaunch simulation simulation.launch
 
 Now the drone starts to fly on predifined trajectory. In Rviz window, you will see, that the generated point cloud are merging. In a few minutes you are firstly expected to see this PCL viewer window, which shows two Meshs with RGB information generated from Greedy triangle and Poisson reconstruction algorithm. 
 
-![image](https://github.com/RuanLinya/Area-Mesh-Generation/blob/main/autsys-projects-amg-main/image/RGB.png))
-
 Then wait a few minutes, you are expected to see another PCL viewer window, which shows four meshs. On the upper part are two meshs without RGB color. On the lower side are two meshs with color information based on the height. The color change from blue to red according to the height.
-
-![image](https://github.com/TUM-AAS/autsys-projects-amg/blob/main/image/height.png)
 
 ### Demo
 - Area Mesh Generation:
