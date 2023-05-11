@@ -66,9 +66,6 @@ https://youtu.be/wqpocfeieUQ
 - Unity environments with distinctive features of the terrain:
 https://youtu.be/jiScXNfc3rE
 
-### Architecture Overview and Interfaces
-![image](https://github.com/TUM-AAS/autsys-projects-amg/blob/main/image/rosgraph.png)
-
 ### Reference
 
 1. Mohsan, S.A.H., Othman, N.Q.H., Li, Y. et al. Unmanned aerial vehicles (UAVs): practical aspects, applications, open challenges, security issues, and future trends. Intel Serv Robotics 16, 109–137 (2023). https://doi.org/10.1007/s11370-022-00452-4
