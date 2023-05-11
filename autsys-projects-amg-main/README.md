@@ -1,15 +1,6 @@
 
-#Area Mesh Generation (Vision)
-### Table of contents
-1. Project Description
-2. Members
-3. Installation and Build
-4. Run the Simulation
-5. Responsibilities 
-6. Milestones
-7. Demo
-8. Architecture Overview and Interfaces
-9. Reference
+# Area Mesh Generation (Vision)
+
 
 ### Project Description
 
