@@ -6,7 +6,7 @@
 
 This project explore the process of 3D slightly hilly terrain containing a polygon of n corners reconstruction using UAVs with down-pointing stereo-camera. A mesh reconstruction of area is generated from raw images after UAVs scans this area. The core modules are trajectory planning, feature matching, point cloud generation and merging, colored mesh generation.
 
-![image](https://github.com/TUM-AAS/autsys-projects-amg/blob/main/image/enviroment.png)
+![image](https://github.com/RuanLinya/Area-Mesh-Generation/blob/main/autsys-projects-amg-main/image/enviroment.png)
 
 
 The main tasks of this project are as follows:
