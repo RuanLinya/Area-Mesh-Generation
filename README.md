@@ -64,6 +64,7 @@ Now the drone starts to fly on predifined trajectory. In Rviz window, you will s
 Then wait a few minutes, you are expected to see another PCL viewer window, which shows four meshs. On the upper part are two meshs without RGB color. On the lower side are two meshs with color information based on the height. The color change from blue to red according to the height.
 
 <img width="310" alt="image" src="https://github.com/RuanLinya/Area-Mesh-Generation/assets/133128176/b5889d38-0322-4d4d-83ba-d0ea12c42229">### Demo
+
 ### Demo
 - Area Mesh Generation:
 https://youtu.be/wqpocfeieUQ
